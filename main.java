@@ -1,2 +1,2 @@
-public class main {//sefwqf
+public class main {//sefwqerreererereef
 }
